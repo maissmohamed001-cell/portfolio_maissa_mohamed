@@ -105,8 +105,6 @@ Handles mobile navigation toggle with ARIA support
 - Safari 14+
 - Edge 90+
 
-## 📝 License
-© 2026 Mohamed Maissa. All rights reserved.
 
 ## 📧 Contact
 - **Email:** maissmohamed002@gmail.com
